@@ -1,0 +1,20 @@
+.navbar {
+    background-color: aqua;
+}
+
+.backgroundcolor {
+    background-color: rgb(34, 154, 154);
+}
+
+.navbar li {
+    color: white;
+}
+
+.nav-item .navbar .navbar-nav .nav-link{
+    color: white;
+}
+
+.container card{
+    flex-direction: row;
+    justify-content: space-around;
+}
